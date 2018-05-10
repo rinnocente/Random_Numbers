@@ -43,17 +43,17 @@ jupyter port of your host and you can access it with your browser at
  - printed notebook in **.pdf**
  
  The notebooks are about arguments in Finite Field theory and practice  :
- - Z_p  prime fields
- - F_q  prime power fields also known as Galois Fields extensions GF(q)
- - primitive polynomials in Finite Fields
- - LFSR
- - GSM encryption A5/1
- - GFSR
- - T400
- - T800
- - Tempering
- - Design a TGFSR
- - Design a Mersenne Twister 
+ - 01-Z_p  prime fields
+ - 02-F_q  prime power fields also known as Galois Fields extensions GF(q)
+ - 03-Primitive polynomials in Finite Fields
+ - 04-LFSR
+ - 05-GSM encryption A5/1
+ - 06-GFSR
+ - 07-T400
+ - 08-T800
+ - 09-Tempering
+ - 10-Design a TGFSR
+ - 11-Design a Mersenne Twister 
  
  
  
